@@ -34,7 +34,7 @@ docker-compose up --build
 ```
 
 The application will be available at:
-- Web Application: http://localhost:5000
+- Web Application: http://localhost:5001
 - Prometheus: http://localhost:9090
 - Grafana: http://localhost:3000 (default credentials: admin/admin)
 
